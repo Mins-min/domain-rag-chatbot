@@ -1,7 +1,0 @@
-.env
-__pycache__/
-*.pyc
-venv/
-.venv/
-vector_store/saved_index/
-.streamlit/secrets.toml
