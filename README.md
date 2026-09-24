@@ -1,4 +1,5 @@
 # Domain-Specific RAG Chatbot for PDF Question Answering
+🚀 **Live Demo:** [Check out the live app here!](https://domain-rag-chatbot-mr9fpmasjkksyatwhwofsq.streamlit.app/)
 
 A Streamlit chatbot that answers questions **only from your uploaded PDF/TXT documents** and shows the
 source document and page number for every answer. If the answer is not in the documents, it says so
